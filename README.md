@@ -18,8 +18,8 @@ A real-time local AI Chat application to seamlessly handle PDFs, images, and aud
 ### Installation
 
 1. Clone the Repository:
-    ``` git clone https://github.com/arjun-20/Multimodal-AI-Chat-App.git
-    cd multimodal-ai-chat ```
+     git clone https://github.com/arjun-20/Multimodal-AI-Chat-App.git
+    cd multimodal-ai-chat
 
 2. Create a Virtual Environment:
     python -m venv env
@@ -28,15 +28,11 @@ A real-time local AI Chat application to seamlessly handle PDFs, images, and aud
    conda create -n env python=3.10.*
    conda activate env
     
-4. Upgrade pip:
-    pip install --upgrade pip
+4. Upgrade pip: ``` pip install --upgrade pip ```
 
-5. Install Requirements:
-    pip install -r requirements.txt
+5. Install Requirements: ``` pip install -r requirements.txt ```
 
-6. Initialize the Database:
-   python3 database_operations.py
+6. Initialize the Database: ``` python3 database_operations.py ```
     
-7. Run the Application:
-    streamlit run app.py
+7. Run the Application: ``` streamlit run app.py ```
     
