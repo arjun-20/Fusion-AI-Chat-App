@@ -23,7 +23,9 @@ A real-time local AI Chat application to seamlessly handle PDFs, images, and aud
 
 2. Create a Virtual Environment:
     python -m venv env
+   
     env\Scripts\activate
+   
     or
    conda create -n env python=3.10.*
    conda activate env
