@@ -33,9 +33,9 @@ A real-time local AI Chat application to seamlessly handle PDFs, images, and aud
 5. Install Requirements: ``` pip install -r requirements.txt ```
 
 6. Setup local models: Download the models and place it inside the models directory.
-      Mistral: `https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF`
-      Llava: `https://huggingface.co/mys/ggml_llava-v1.5-7b/tree/main`
-      Whisper: https://huggingface.co/collections/openai/whisper-release-6501bba2cf999715fd953013 
+      [Mistral](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF)
+      [Llava](https://huggingface.co/mys/ggml_llava-v1.5-7b/tree/main)
+      [Whisper](https://huggingface.co/collections/openai/whisper-release-6501bba2cf999715fd953013)
 ```
 multimodal_ai_chat-main/
 ├── models/
