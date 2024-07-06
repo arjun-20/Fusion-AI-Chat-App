@@ -55,4 +55,17 @@ multimodal_ai_chat-main/
 7. Initialize the Database: ``` python3 database_operations.py ```
     
 8. Run the Application: ``` streamlit run app.py ```
-    
+
+
+## Outputs
+
+![Picture1](https://github.com/arjun-20/Multimodal-AI-Chat-App/assets/73024645/da4f27d4-30f4-44f4-96da-93dacb17707c)
+
+PDF Interactions: 
+![Picture2](https://github.com/arjun-20/Multimodal-AI-Chat-App/assets/73024645/a940ee96-81d0-46eb-a79f-d72644a36a3d)
+
+![Picture3](https://github.com/arjun-20/Multimodal-AI-Chat-App/assets/73024645/8f17b6cd-60e9-4216-a0f2-b53ef0781541)
+
+
+
+
