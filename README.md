@@ -18,7 +18,7 @@ A real-time local AI Chat application to seamlessly handle PDFs, images, and aud
 ### Installation
 
 1. Clone the Repository:
-     git clone https://github.com/arjun-20/Multimodal-AI-Chat-App.git
+     git clone https://github.com/arjun-20/Fusion-AI-Chat-App.git
     cd multimodal-ai-chat
 
 2. Create a Virtual Environment:
