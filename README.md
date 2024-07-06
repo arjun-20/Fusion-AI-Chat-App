@@ -58,14 +58,15 @@ multimodal_ai_chat-main/
 
 
 ## Outputs
+Chat Interactions:
+![1](https://github.com/arjun-20/Fusion-AI-Chat-App/assets/73024645/ba5fedf7-382f-428d-9eaf-c49013ca710c)
 
-![Picture1](https://github.com/arjun-20/Multimodal-AI-Chat-App/assets/73024645/da4f27d4-30f4-44f4-96da-93dacb17707c)
 
 PDF Interactions: 
-![Picture2](https://github.com/arjun-20/Multimodal-AI-Chat-App/assets/73024645/a940ee96-81d0-46eb-a79f-d72644a36a3d)
-
-![Picture3](https://github.com/arjun-20/Multimodal-AI-Chat-App/assets/73024645/8f17b6cd-60e9-4216-a0f2-b53ef0781541)
+![3](https://github.com/arjun-20/Fusion-AI-Chat-App/assets/73024645/e3e61eef-cb32-4dd7-ae94-8982de089c3e)
 
 
+Image:
+![2](https://github.com/arjun-20/Fusion-AI-Chat-App/assets/73024645/6b8653d6-c2dd-4c3f-ac6b-dd004c672c2d)
 
 
