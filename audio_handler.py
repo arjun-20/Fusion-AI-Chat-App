@@ -12,8 +12,8 @@ def convert_bytes_to_array(audio_bytes):
     return audio
 
 def transcribe_audio(audio_bytes):
-    #device = "cuda:0" if torch.cuda.is_available() else "cpu"
-    device = "cpu"
+    device = "cuda:0" if torch.cuda.is_available() else "cpu"
+    # device = "cpu"
     pipe = pipeline(
         task="automatic-speech-recognition",
         model=config["whisper_model"],
